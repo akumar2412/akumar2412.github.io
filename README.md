@@ -3,6 +3,9 @@
 # Anuj Kumar
 Hello, I am a Ph.D. student at Indiana University Bloomington working under the supervision of Michael Jolly and Vincent Martinez (CUNY Hunter College). I work in the field of partial differential equations, especially in problems related to fluid dynamics and turbulence. 
 
+### Contact Information
+E-mail: kumar22@iu.edu
+
 ### Published or submitted works
 1. M.S. Jolly, A. Kumar, and V.R. Martinez,  On existence, uniqueness, and smoothing
 to the generalized SQG equation in critical Sobolev spaces, Communications in Mathematical 
