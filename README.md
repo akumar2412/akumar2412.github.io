@@ -18,5 +18,5 @@ of active scalar equations in borderline Sobolev spaces.
 
 
 
-<img src="/img/image_0109.heic" width="60%" height="60%">
+<img src="/img/IMG_0109.heic" width="60%" height="60%">
 
