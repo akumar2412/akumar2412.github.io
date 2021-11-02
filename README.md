@@ -1,3 +1,5 @@
+<img src="/img/frontpage.png" width="60%" height="60%">
+
 # Anuj Kumar
 Hello, I am a Ph.D. student at Indiana University Bloomington working under the supervision of Michael Jolly and Vincent Martinez (CUNY Hunter College). I work in the field of partial differential equations, especially in problems related to fluid dynamics and turbulence. 
 
@@ -16,5 +18,5 @@ of active scalar equations in borderline Sobolev spaces.
 
 
 
-<img src="/img/frontpage.png" width="60%" height="60%">
+<img src="/img/image_0109.heic" width="60%" height="60%">
 
