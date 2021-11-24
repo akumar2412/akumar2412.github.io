@@ -1,4 +1,4 @@
-![Photo](https://user-images.githubusercontent.com/91158073/143278099-d87ea209-cb97-4526-b209-1598669ebe8c.jpeg)
+
 # Anuj Kumar
 Hello, I am a Ph.D. student at Indiana University Bloomington working under the supervision of Michael Jolly and Vincent Martinez (CUNY Hunter College). I work in the field of partial differential equations, especially in problems related to fluid dynamics and turbulence. Here is my [CV](CV.pdf).
 
